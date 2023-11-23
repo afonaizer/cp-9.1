@@ -106,7 +106,7 @@ namespace ConsoleApp21
         //    int n = int.Parse(Console.ReadLine());
         //    List<int> products = new List<int>(20);
         //    Filling(products);
-        //    Console.WriteLine($"\nНовый спсиок стоимостей товаров, без списанного товара\n");
+        //    Console.WriteLine($"\nСписиок товаров:\n");
         //    for (int i = 0; i < products.Count; i++)
         //    {
         //        if (i == n) {products.RemoveAt(i); }
